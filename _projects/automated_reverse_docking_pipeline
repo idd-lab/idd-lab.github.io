@@ -1,0 +1,22 @@
+---
+layout: page
+title: Semi-Automated Reverse Docking Pipeline
+description: A high-throughput pipeline for mechanism-of-action (MoA) discovery, drug repurposing, and adverse effect prediction
+img: assets/img/3.jpg # Placeholder image
+importance: 2
+category: work
+github: https://github.com/idd-lab/semi-automated-reverse-docking
+---
+
+**Status:** Pipeline Operational | Manuscript in Preparation
+
+A fully automated computational pipeline designed to investigate the pharmacological effects of newly extracted compounds lacking prior target data. This system acts as a "computational assay," moving from raw extraction data to predicted Protein-Protein Interaction (PPI) networks.
+
+Preprint in Preparation: An End-to-End application of reverse docking and PPI network analysis to investigate natural compound mechanism of action.
+
+### Capabilities
+* **Inverse Docking:** Screen a single ligand against a database of potential protein targets to identify likely binding partners.
+* **PPI Network Analysis:** Maps downstream effects of the target interaction to predict systemic pharmacological impact.
+* **Lead Optimization:** Automated suggestions for structural modifications to enhance affinity.
+
+**View the Source Code:** [GitHub Repository](https://github.com/idd-lab/semi-automated-reverse-docking)
