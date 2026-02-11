@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -496,6 +496,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-semi-automated-reverse-docking-pipeline",
+          title: 'Semi-Automated Reverse Docking Pipeline',
+          description: "A high-throughput pipeline for mechanism-of-action (MoA) discovery, drug repurposing, and adverse effect prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/automated_reverse_docking_pipeline/";
+            },},{id: "projects-de-novo-bace1-inhibitor-design",
+          title: 'De Novo BACE1 Inhibitor Design',
+          description: "Integrating Reinforcement Learning and Genetic Algorithms for Alzheimer&#39;s therapeutics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bace1_de_novo_design/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
