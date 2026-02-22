@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Current working computational pipelines and research frameworks.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: ["Generative Therapeutics", "Target Identification", "Frontier Research"]
 horizontal: false
 ---
 
