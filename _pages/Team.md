@@ -13,7 +13,11 @@ profile:
 
 ### **Principal Investigator**
 
-**Thang T. Dang** *Founder & Lead Architect*
+<div class="float-right ml-4 mb-4" style="max-width: 280px;">
+  <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Thang T. Dang">
+</div>
+
+**Thang T. Dang** *Founder & Lead Researcher*
 
 Thang T. Dang is the driving force behind the Independent Drug Discovery (IDD) Lab. Currently completing his undergraduate studies at the Hanoi University of Science and Technology (HUST), his work focuses on the intersection of generative artificial intelligence, quantum-classical computational biophysics, and structural biology.
 
