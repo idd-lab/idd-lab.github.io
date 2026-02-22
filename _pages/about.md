@@ -6,7 +6,7 @@ subtitle: <a href='#'>Independent Drug Discovery Lab</a>. End-to-End Computation
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Lab_Card_3.png
   image_circular: false 
   more_info: >
     <p>Hanoi University of Science and Technology</p>
